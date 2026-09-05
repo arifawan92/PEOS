@@ -1,41 +1,10 @@
-import { useContext } from "react";
+import TasksManager from "../TasksManager"
 
-import { AppContext } from "../../context/AppContext";
-
-import Dashboard from "../../pages/Dashboard";
-import Projects from "../../pages/Projects";
-import Tasks from "../../pages/Tasks";
-import Settings from "../../pages/Settings";
-
-function WorkingArea() {
-  const { currentPage } = useContext(AppContext);
-
-  function renderPage() {
-    switch (currentPage) {
-      case "projects":
-        return <Projects />;
-
-      case "tasks":
-        return <Tasks />;
-
-      case "settings":
-        return <Settings />;
-
-      default:
-        return <Dashboard />;
-    }
-  }
-
+export default function WorkingArea() {
   return (
-    <section
-      style={{
-        flex: 1,
-        padding: "20px",
-      }}
-    >
-      {renderPage()}
-    </section>
-  );
+    <div style={{ padding: "20px", fontFamily: "Arial" }}>
+      <h1 style={{color: 'green'}}>PEOS Dashboard 🚀</h1>
+      <TasksManager />
+    </div>
+  )
 }
-
-export default WorkingArea;

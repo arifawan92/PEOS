@@ -1,3 +1,5 @@
+import AutoTester from '../components/AutoTester'  // 1. اوپر import کریں
+
 function Dashboard() {
   return (
     <>
@@ -6,6 +8,11 @@ function Dashboard() {
       <p>Current Page:</p>
 
       <h2>Dashboard</h2>
+
+      {/* 2. یہاں AutoTester لگا دیں */}
+      <div className="mt-6">
+        <AutoTester />
+      </div>
     </>
   );
 }

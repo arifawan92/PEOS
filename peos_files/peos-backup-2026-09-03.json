@@ -1,0 +1,188 @@
+{
+  "exportedAt": "2026-09-03T08:04:33.443Z",
+  "tasks": {
+    "UAE Outreach": [
+      {
+        "id": 1788349178432,
+        "text": "3 Recruiters کو LinkedIn پر Message بھیجنا",
+        "done": true
+      }
+    ]
+  },
+  "notes": {
+    "Backup Engine": "Modular Windows PowerShell iPhone backup app. v2.0 tagged stable; v2.1 in progress. Folder structure: BackupEngine.ps1 at root, with Config, Modules, Logs, Reports, Inventory, Database, Assets, Documentation subfolders. Parallel iOS Live System Interaction utility (Python, pymobiledevice3) targeting iPhone 12 Pro. No hosted repo yet — local project only. Add its folder path or GitHub link above once available.",
+    "Voice Console": "Next.js voice-playback-console app (TypeScript, Tailwind, App Router) at D:\\voice-playback-console on the VivoBook. VoicePlaybackEmulator component with an AudioContext DSP chain. Blocked: LAN access from mobile fails due to router-level AP isolation. Firewall rule created for TCP port 3000, but network profile issue (locked at Public by Group Policy) not fully resolved. A fresh project scaffold was created as a clean restart point."
+  },
+  "links": {
+    "UAE Outreach": [
+      {
+        "label": "Live CV",
+        "url": "https://cv-builder-pro-bk4v.vercel.app"
+      }
+    ]
+  },
+  "selectedProject": "UAE Outreach",
+  "missionText": "Continue UAE Outreach",
+  "timelineEntries": [
+    {
+      "time": "18:20",
+      "text": "Opened Workspace"
+    },
+    {
+      "time": "08:24",
+      "text": "Reopened Workspace — restored previous session"
+    },
+    {
+      "time": "16:43",
+      "text": "Reopened Workspace — restored previous session"
+    },
+    {
+      "time": "11:33",
+      "text": "Reopened Workspace — restored previous session"
+    },
+    {
+      "time": "12:12",
+      "text": "Reopened Workspace — restored previous session"
+    },
+    {
+      "time": "13:55",
+      "text": "Reopened Workspace — restored previous session"
+    },
+    {
+      "time": "14:56",
+      "text": "Reopened Workspace — restored previous session"
+    },
+    {
+      "time": "16:33",
+      "text": "Reopened Workspace — restored previous session"
+    },
+    {
+      "time": "17:57",
+      "text": "Reopened Workspace — restored previous session"
+    },
+    {
+      "time": "17:59",
+      "text": "Reopened Workspace — restored previous session"
+    },
+    {
+      "time": "17:59",
+      "text": "Reopened Workspace — restored previous session"
+    },
+    {
+      "time": "18:00",
+      "text": "Selected Voice Console"
+    },
+    {
+      "time": "18:00",
+      "text": "Selected Learning"
+    },
+    {
+      "time": "18:00",
+      "text": "Selected Backup Engine"
+    },
+    {
+      "time": "18:00",
+      "text": "Selected UAE Outreach"
+    },
+    {
+      "time": "18:02",
+      "text": "Selected Backup Engine"
+    },
+    {
+      "time": "18:03",
+      "text": "Reopened Workspace — restored previous session"
+    },
+    {
+      "time": "10:02",
+      "text": "Reopened Workspace — restored previous session"
+    },
+    {
+      "time": "12:36",
+      "text": "Reopened Workspace — restored previous session"
+    },
+    {
+      "time": "12:50",
+      "text": "Reopened Workspace — restored previous session"
+    },
+    {
+      "time": "12:59",
+      "text": "Reopened Workspace — restored previous session"
+    },
+    {
+      "time": "13:06",
+      "text": "Reopened Workspace — restored previous session"
+    },
+    {
+      "time": "20:07",
+      "text": "Reopened Workspace — restored previous session"
+    },
+    {
+      "time": "22:32",
+      "text": "Reopened Workspace — restored previous session"
+    },
+    {
+      "time": "22:36",
+      "text": "Reopened Workspace — restored previous session"
+    },
+    {
+      "time": "22:44",
+      "text": "Reopened Workspace — restored previous session"
+    },
+    {
+      "time": "08:19",
+      "text": "Reopened Workspace — restored previous session"
+    },
+    {
+      "time": "10:10",
+      "text": "Reopened Workspace — restored previous session"
+    },
+    {
+      "time": "16:30",
+      "text": "Reopened Workspace — restored previous session"
+    },
+    {
+      "time": "16:33",
+      "text": "Reopened Workspace — restored previous session"
+    },
+    {
+      "time": "16:33",
+      "text": "Selected UAE Outreach"
+    },
+    {
+      "time": "16:34",
+      "text": "Reopened Workspace — restored previous session"
+    },
+    {
+      "time": "16:36",
+      "text": "Reopened Workspace — restored previous session"
+    },
+    {
+      "time": "16:39",
+      "text": "Task added to UAE Outreach: \"3 Recruiters کو LinkedIn پر Message بھیجنا\""
+    },
+    {
+      "time": "16:50",
+      "text": "Reopened Workspace — restored previous session"
+    },
+    {
+      "time": "16:55",
+      "text": "Reopened Workspace — restored previous session"
+    },
+    {
+      "time": "16:55",
+      "text": "Reopened Workspace — restored previous session"
+    },
+    {
+      "time": "12:56",
+      "text": "Reopened Workspace — restored previous session"
+    }
+  ],
+  "commands": 0,
+  "recommendations": 0,
+  "projectsTouched": [
+    "Voice Console",
+    "Learning",
+    "Backup Engine",
+    "UAE Outreach"
+  ]
+}
